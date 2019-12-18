@@ -1060,7 +1060,8 @@ samp {
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 85px 0 55px;
-  color: white;
+  * color: rgb(236, 239, 241);
+ text-shadow: rgb(66, 66, 66) 4px 2px 0.2em, rgb(33, 33, 33) 2px -1px 0.1em, rgb(255, 235, 59) 0px 0px 1em;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
