@@ -70,7 +70,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Happy to be continued...<br>快乐继续每一天"
-sidebar-avatar: /img/side-logo.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/HappyFamily.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
