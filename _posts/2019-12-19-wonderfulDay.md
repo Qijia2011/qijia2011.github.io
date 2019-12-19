@@ -4,8 +4,7 @@ title: "A wonderful Day　 "
 subtitle: '精彩的一天🤠'
 author: "Dudu"
 header-style: text
-tags:
-  -school
+tags: school
 ---
 
 今天数学考试我又答了一百加十，我在答题的过程中非常紧张😰。第三张的附加题的第二个题我个人感觉特别难，题是这样的：
@@ -14,7 +13,7 @@ tags:
 
 ​     鹅是乌龟的三倍
 
-​     鸟是乌龟的（         ）倍
+​     鸟是乌龟的（     &nbsp;    ）倍
 
 
 
