@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: Qijia2011@gmail.com
 description: "都都的日常关于生活、学习、编程、电影的博客 | 都都，Web & Mobile Lover，Movies，Scratch Designer "
 keyword: "都都, 都都欢乐玩具屋, Dudu, dudu, @qijia2011, 都都的博客,"
-url: "https://qijia2011.github.io/test01"              # your host, for absolute URL
+url: "https://qijia2011.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
