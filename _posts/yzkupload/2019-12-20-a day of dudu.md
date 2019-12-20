@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "都都的一天　 "
+title: " 都都的一天 "
 subtitle: ''
 author: "yzk"
 header-style: text
-tags:life
+tags: life
 ---
 
 ****
@@ -42,7 +42,7 @@ tags:life
 
 ---
 
-[^1]:一个淘汰的旧手机，用来播放《米小圈上学记》、《凯叔讲故事》等睡前故事用的。
+> [^1]:一个淘汰的旧手机，用来播放《米小圈上学记》、《凯叔讲故事》等睡前故事用的。
 
 
 
