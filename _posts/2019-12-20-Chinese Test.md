@@ -3,7 +3,7 @@ layout: post
 title: "失落的一天😢　 "
 subtitle: ''
 author: "Dudu"
-header-img: "img/post-bg-infinity.jpg"
+header-img: "img/home-bg1.jpg"
 tags:
   - school
 ---
